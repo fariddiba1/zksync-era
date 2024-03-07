@@ -5,7 +5,6 @@
 
 ### ⚠ BREAKING CHANGES
 
-* **prover:** Add EIP4844 support for provers subsystem ([#1200](https://github.com/matter-labs/zksync-era/issues/1200))
 * Set 21 as latest protocol version ([#1262](https://github.com/matter-labs/zksync-era/issues/1262))
 
 ### Features
