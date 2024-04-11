@@ -12,6 +12,6 @@
       "prover": {
         "release-type": "simple",
         "component": "prover"
-      }
+    }
   }
 }
