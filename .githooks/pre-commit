@@ -2,7 +2,7 @@
 #
 # Pre-commit hook verifying that inappropriate code will not be committed.
 
-# Colors for the terminal output
+# Colors for the terminal output in
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 
