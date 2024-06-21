@@ -1,4 +1,4 @@
-# Changelog
+
 
 ## [21.0.0](https://github.com/matter-labs/zksync-era/compare/core-v20.8.0...core-v21.0.0) (2024-03-01)
 
