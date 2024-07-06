@@ -11,6 +11,8 @@ categories = ["cryptography"]
 
 [dependencies]
 zksync_basic_types = { path = "../../lib/basic_types" }
+// config
+
 
 anyhow = "1.0"
 rand = "0.8"
